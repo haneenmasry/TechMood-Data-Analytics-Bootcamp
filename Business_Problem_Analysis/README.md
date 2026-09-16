@@ -19,6 +19,12 @@ This repository contains the deliverables for Lesson 01 of the TechMood Data Ana
 
 ---
 
+## 🛒 Challenge: E-commerce Abandoned Carts Analysis
+- **Problem:** 74% cart abandonment rate at the checkout stage.
+- **Analysis & Decision:** Addressed "Transaction Shock" by embedding shipping costs into product pricing (Free Shipping psychology) and integrating 1-click payments (Apple Pay) to reduce checkout friction.
+
+---
+
 ## 🚀 Contact & Connect
 * **LinkedIn:** [Haneen Almasry](https://www.linkedin.com/in/haneenalmasry/)
 * **Email:** [haneenmasry0@gmail.com]
