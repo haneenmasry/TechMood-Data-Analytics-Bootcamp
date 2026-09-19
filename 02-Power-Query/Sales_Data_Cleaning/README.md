@@ -29,5 +29,4 @@ After pointing the Power Query `Source` step to this updated file and clicking *
 
 ## 🚀 Connect with me
 * **LinkedIn:** [Haneen Almasry](https://www.linkedin.com/in/haneenalmasry/)
-* **LinkedIn:** [Haneen Almasry](https://linkedin.com)
 
