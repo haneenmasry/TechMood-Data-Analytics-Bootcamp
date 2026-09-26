@@ -12,9 +12,21 @@ This project demonstrates the transition from flat, isolated tables to a fully r
 
 ---
 
-## 🧠 Case Study: Database Normalization
-- **The Problem:** Storing customer names and cities inside one flat table causes heavy data redundancy, massive file sizes, and high typing error risks.
-- **The Solution:** Separating descriptors into Dimension tables reduces file footprint and optimizes processing speed, allowing seamless analytical drill-downs in Pivot Tables.
+## 🧠 Case Study: Database Normalization (Star Schema)
+
+### 1. Key Problems:
+- **Redundancy:** Repeating text columns (`Customer Name`, `City`) creates huge file sizes and slows execution speeds.
+- **Data Quality:** Manual entry repetition risks typos, leading to fractured data and inaccurate filtering.
+- **Maintenance:** Updating a customer's location requires changing thousands of rows instead of one single record.
+
+### 2. Proposed Architecture:
+- **Fact Table:** `Fact_Sales` (Stays in the center, containing only transactions, metrics, and keys).
+- **Dimension Tables:** `Dim_Customers`, `Dim_Cities`, and `Dim_Products` (De-duplicated tables containing descriptors).
+- **Relationships:** Linked unique **Primary Keys (PK)** from Dimensions to **Foreign Keys (FK)** in the Fact table using **One-to-Many (1 → ∞)** relationships.
+
+### 3. Business Value:
+- Normalization shrinks file sizes and boosts Pivot Table processing speeds.
+- Provides high analytical flexibility, allowing management to drill down and filter revenue by City, Customer, or Product with one single click.
 
 ---
 ## 🚀 Connect with me
