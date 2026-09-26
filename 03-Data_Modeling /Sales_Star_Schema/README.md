@@ -17,5 +17,5 @@ This project demonstrates the transition from flat, isolated tables to a fully r
 - **The Solution:** Separating descriptors into Dimension tables reduces file footprint and optimizes processing speed, allowing seamless analytical drill-downs in Pivot Tables.
 
 ---
-🚀 Connect with me
-LinkedIn: Haneen Almasry
+## 🚀 Connect with me
+* **LinkedIn:** [Haneen Almasry](https://www.linkedin.com/in/haneenalmasry/)
