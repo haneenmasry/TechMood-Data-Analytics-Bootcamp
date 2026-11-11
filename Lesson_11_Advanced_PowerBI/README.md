@@ -19,34 +19,6 @@ The architecture advances beyond basic reporting by deploying native machine lea
 
 ---
 
-## 🧠 2. Case Study: Diagnostic Bottlenecks & Secure Distribution Pipelines
-### 📋 The Business Dilemma
-Management teams at WideWorldImporters are unable to systematically identify why specific geolocations register sharp margin leakage despite maintaining high baseline transactional volumes. Manual data table audits across structural branches consume valuable enterprise resource hours. Furthermore, local distribution of standalone `.pbix` documents introduces computation variances, exposes analytical structures to security gaps, and forces stakeholders to look at stagnant, out-of-sync historical snapshots.
-
-### 🛠️ The Architectural Solution
-We engineered a clean, cloud-native semantic intelligence framework to address these business visibility and deployment challenges:
-1. **Shifting to Diagnostic BI**: Integrated an AI Decomposition Tree layer directly over the explicit profit model, allowing leaders to intuitively expand and dissect margin movements by state tiers down to localized nodes.
-2. **Automated Loss Factors Tracking**: Employed the Key Influencers visual to instantly compute variable coefficients, flagging exact bulk order categories and discounting thresholds that cause margin deflation.
-3. **Centralized Cloud Synchronization**: Migrated the verified business framework to the secure Power BI Service environment. We structured explicit tenant spaces, pinned top-level metrics to an active corporate dashboard, and established automated Scheduled Refresh schedules to tie updates directly with active ERP database close cycles.
-
----
-
-## 📝 3. Business Insights & Recommendations
-
-### 💡 5 Core Advanced Sales Insights
-* **Consolidated Metric Engine**: Global sales tracking stands validated at the verified master volume, anchoring total corporate profits while exposing regional operational deviations.
-* **Sovereign Profit Nodes**: Isolating regional frameworks via complex `CALCULATE` parameters proves that key core states (e.g., Texas) safely generate more than **35%** of the enterprise's entire international stability pool.
-* **Logistics Drift Identification**: Tree analysis reveals a critical operational mismatch: specific peripheral nodes drive immense transactional frequency but yield negligible net profit due to high localized distribution overheads.
-* **Toxic Discounting Vectors**: Key Influencers tracking isolated that volume-based discounting structures on lower-tier consumer goods consistently drive margin deterioration rather than incremental customer acquisition.
-* **Optimized Volume Benchmarks**: The internal segment engine pinpointed that mid-tier billing volumes within retail cohorts reflect highly resilient margins compared to erratic high-volume wholesale pipelines.
-
-### 🎯 3 Strategic Business Recommendations
-* **Enforce Localized Pricing Guardrails**: Utilize the automated AI insights to instantly restrict volume discounting models in underperforming nodes, setting strict regional price floors.
-* **Reallocate Supply Chain Allocations**: Transition logistics resources away from low-efficiency territorial boundaries and focus storage capacity directly into proven cluster centers identified by tree nodes.
-* **Schedule Automated Threshold Alerts**: Configure automated email alert parameters directly over cloud-pinned KPI metrics, instantly notifying regional decision-makers the moment territory net performance sags below the target threshold.
-
----
-
 ## 🧮 4. Core DAX Formulas Engineered
 ### Explicit Context-Transition Measure:
 ```dax
